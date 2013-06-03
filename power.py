@@ -9,4 +9,3 @@ def square_root(x):
 def junk(x):
     for i in range(x): print i+1
 
-
